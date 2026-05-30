@@ -61,6 +61,12 @@ reprocessing and avoids recursive calls.”
 
 
 
+**What is ‘EARLYNUMBERING_CBA_BOOKING’?**
+
+
+<img width="644" height="301" alt="image" src="https://github.com/user-attachments/assets/0e076b76-e426-42af-a54a-18516ce955c6" />
+
+
 
 
 
