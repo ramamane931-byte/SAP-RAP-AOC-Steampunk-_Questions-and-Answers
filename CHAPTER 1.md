@@ -1,4 +1,4 @@
-**What is SAP BTP?**
+## What is SAP BTP?
 
 SAP Business Technology Platform (SAP BTP) official overview is SAP’s cloud platform for building, integrating, automating, extending, and analysing business applications.
 “SAP BTP is SAP’s cloud platform used to build apps, integrate systems, automate processes, and analyze data. It helps extend SAP applications in a clean core and modern way using cloud services like HANA Cloud, Integration Suite, and SAP Build.”
@@ -16,7 +16,7 @@ The advantage of this platform is Scalability, Elasticity, Lower TCO. BTP is not
 
 
 
-**What is the meaning of clean core?**
+## What is the meaning of ‘clean core’? What is ABAP Cloud Dev. means?    
 
 Keep the SAP standard system (S/4HANA core) as unchanged as possible and build extensions only through released, upgrade-safe mechanisms.
 
@@ -24,7 +24,7 @@ Keep the SAP standard system (S/4HANA core) as unchanged as possible and build e
 
 
 
-**is RAP Steampunk a SaaS environment or else?**
+## is RAP Steampunk a SaaS environment or else?
 
 RAP Steampunk refers to SAP BTP ABAP Environment, which is a PaaS offering on SAP BTP used to build cloud-native ABAP applications using RAP.
 
@@ -32,7 +32,7 @@ RAP Steampunk refers to SAP BTP ABAP Environment, which is a PaaS offering on SA
 
 
 
-**is Cloud Foundry a PaaS Environment?**
+## is Cloud Foundry a PaaS Environment?
 
 Cloud Foundry is a PaaS environment. In SAP BTP, it is used to develop, deploy, and run cloud-native applications without managing underlying infrastructure.
 
@@ -40,7 +40,7 @@ Cloud Foundry is a PaaS environment. In SAP BTP, it is used to develop, deploy, 
 
 
 
-**What is a Business Object (BO) in RAP?**
+## What is a Business Object (BO) in RAP?
 
 “A business object represents a composition tree which starts with a root node and have multiple child nodes inside = each node is a cds entity.”
 Behavior Definition: Create, Update, Lock, Delete, Action, ETag, Authorizations, and Feature Control Draft.
